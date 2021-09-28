@@ -1,5 +1,6 @@
-import type { NextPage } from 'next'
 import { css } from '@emotion/react'
+
+import type { NextPage } from 'next'
 
 const HomePage: NextPage = () => {
   return (
