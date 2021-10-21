@@ -17,6 +17,7 @@
   ],
   "plugins": ["@typescript-eslint", "import", "unused-imports"],
   "rules": {
+    "@typescript-eslint/explicit-module-boundary-types": "error",
     "unused-imports/no-unused-imports": "error",
     "import/order": [
       "error",
